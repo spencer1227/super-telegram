@@ -1,18 +1,26 @@
 # super-telegram
+
+
+# The Project
 As a developer for Horiseon I was tasked with updating our digital website with the following requirements:
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+Acceptance Criteria:
+- Webpage meets accessibility standards
+- Semantic HTML elements are used
+- The elements follow a logical structure independent of styling and positioning
+- Accessible alt attributes
+- Attributes fall in sequential order
+- Title is concise & descriptive
 
+Additional Requirements
+- Ensure all links function correctly
+- Consolidate & clean up CSS files for efficency
+- Keep properties in order to function properly
+
+# Completing the Project
+
+Semantic HTML
+Proper 
 
 condenced CSS file
 
