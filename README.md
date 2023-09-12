@@ -39,14 +39,16 @@ For the CSS file, several of the elements that were being changed made were bein
 
 ## Links to github / URL
 
-## Author - Spencer Hoile
-## link to github, linkedin
+# About Author - Spencer Hoile
+link to github, linkedin
+- [Github]https://github.com/spencer1227
+- [LinkedIn]https://www.linkedin.com/in/spencerhoile/
 
 
-## References
-[Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
-[Semantic HTML](https://teamtreehouse.com/library/semantic-html-header-footer-and-section)
-[Web accessibility standards](https://www.w3.org/standards/webdesign/accessibility)
-[Markdown and Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
-[Make a README](https://www.makeareadme.com/#template)
-[Interactive tutorial](https://commonmark.org/help/tutorial/)
+# References
+- [Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
+- [Semantic HTML](https://teamtreehouse.com/library/semantic-html-header-footer-and-section)
+- [Web accessibility standards](https://www.w3.org/standards/webdesign/accessibility)
+- [Markdown and Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
+- [Make a README](https://www.makeareadme.com/#template)
+- [Interactive tutorial](https://commonmark.org/help/tutorial/)
