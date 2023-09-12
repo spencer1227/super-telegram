@@ -34,9 +34,6 @@ Once the specific areas were identified, changes were made from div to their cor
 
 For the CSS file, several of the elements that were being changed made were being written exactly the same. This was fixed by copying the element and adding a comma to seperate the elements being changed. Condensing the CSS file will make the progran run smoother.
 
-## Website 
-<!-- image link -->
-
 ## Links to GitHub
 - [Github]https://github.com/spencer1227/super-telegram
 
