@@ -19,15 +19,34 @@ Additional Requirements
 
 # Completing the Project
 
-Semantic HTML
-Proper 
+To complete this project, the first step was utilizing Semantic HTML, which is not being used in the HTML.
 
-condenced CSS file
+Semantic HTML updates includes the following:
+- Header
+- Nav (Navigation)
+- Section
+- Article
+- Aside
+- Footer
 
-## website image 
+Other updates made to the HTML include adding alt property
+Once the specific areas were identified, changes were made from div to their correct Semantic HTML format. This will help 
+
+For the CSS file, several of the elements that were being changed made were being written exactly the same. This was fixed by copying the element and adding a comma to seperate the elements being changed. Condensing the CSS file will make the progran run smoother.
+
+## Website 
 <!-- image link -->
 
-## live links to github and URL
+## Links to github / URL
 
-## author - Spencer Hoile
+## Author - Spencer Hoile
 ## link to github, linkedin
+
+
+## References
+[Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
+[Semantic HTML](https://teamtreehouse.com/library/semantic-html-header-footer-and-section)
+[Web accessibility standards](https://www.w3.org/standards/webdesign/accessibility)
+[Markdown and Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
+[Make a README](https://www.makeareadme.com/#template)
+[Interactive tutorial](https://commonmark.org/help/tutorial/)
