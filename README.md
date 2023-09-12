@@ -18,7 +18,6 @@ Additional Requirements
 - Keep properties in order to function properly
 
 # Completing the Project
-
 To complete this project, the first step was utilizing Semantic HTML, which is not being used in the HTML.
 
 Semantic HTML updates includes the following:
