@@ -37,10 +37,12 @@ For the CSS file, several of the elements that were being changed made were bein
 ## Website 
 <!-- image link -->
 
-## Links to github / URL
+## Links to GitHub
+- [Github]https://github.com/spencer1227/super-telegram
+
 
 # About Author - Spencer Hoile
-link to github, linkedin
+Link to GitHub, LinkedIn
 - [Github]https://github.com/spencer1227
 - [LinkedIn]https://www.linkedin.com/in/spencerhoile/
 
